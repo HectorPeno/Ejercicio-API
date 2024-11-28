@@ -14,15 +14,7 @@ Este proyecto muestra cómo interactuar con la API de la NASA para obtener datos
 
 ---
 
-ejercicioapi/
-├── index.html       # Archivo principal HTML.
-├── css/             # Carpeta que contiene los estilos CSS.
-│   └── style.css
-├── js/              # Carpeta que contiene el script JavaScript.
-│   └── app.js
-├── images/          # Carpeta que contiene la imagen.
-│   └── nasa.jpg
-└── README.md        # Documentación del proyecto.
+ejercicioapi/ ├── index.html # Archivo principal HTML. ├── css/ # Carpeta que contiene los estilos CSS. │ └── style.css ├── js/ # Carpeta que contiene los scripts JavaScript. │ └── app.js ├── images/ # Carpeta que contiene las imágenes. │ └── nasa.jpg # Imagen utilizada en el proyecto. └── README.md # Documentación del proyecto.
 
 
 
