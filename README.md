@@ -15,4 +15,27 @@ Este proyecto muestra cómo interactuar con la API de la NASA para obtener datos
 ---
 
 ## Estructura del Proyecto
+EjercicioAPI/
+│
+├── index.html       # Archivo principal HTML.
+├── css/             # Carpeta que contiene los estilos CSS.
+│   └── style.css
+├── js/              # Carpeta que contiene el script JavaScript.
+│   └── app.js
+├── images/          # Carpeta que contiene las imágenes.
+│   └── nasa.jpg
+└── README.md        # Documentación del proyecto.
 
+
+## Características Principales
+
+- **Imagen Astronómica del Día (APOD)**: Presenta la imagen diaria de la NASA con una descripción científica.
+- **Asteroides Cercanos**: Muestra información en tiempo real sobre los asteroides cercanos a la Tierra.
+- **Diseño Responsivo**: Funciona en dispositivos de escritorio y móviles.
+
+
+## Requisitos
+
+- Un navegador web moderno.
+- Conexión a internet para acceder a la API de la NASA.
+- Una clave de acceso a la API (se puede obtener en [NASA API](https://api.nasa.gov/)).
